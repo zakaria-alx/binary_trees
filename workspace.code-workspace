@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": ".",
+            "name": "0x1D. C - Binary trees"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "binary_trees.h": "c",
+        }
+    },
+}
